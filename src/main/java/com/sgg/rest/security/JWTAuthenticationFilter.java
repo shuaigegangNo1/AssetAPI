@@ -18,8 +18,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sgg.rest.model.ApplicationUser;
 import com.sgg.rest.service.LoginService;
 
-import edu.fudan.langlab.domain.security.User;
-import edu.fudan.langlab.domain.security.impl.UserImpl;
 
 import static com.sgg.rest.security.SecurityConstants.*;
 
